@@ -1,4 +1,4 @@
-# Development of an AI-based Drone System for Surveillance and Management of Invasive Plants in Jeju Island, South Korea
+# Development of an AI-based Drone System for Surveillance and Management of Invasive Plants
 
 This project focuses on the development of a drone-based system that detects and manages invasive alien plants (IVPs), particularly Ambrosia trifida, in Jeju Island, South Korea. The system uses a YOLOv5 object detection model integrated with drone systems for real-time detection and removal of IVPs in hard-to-access regions like Jeju Island in South Korea.
 
