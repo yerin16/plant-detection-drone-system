@@ -23,9 +23,9 @@ In addition, Ambrosia trifida is particularly problematic due to its high reprod
 
 ## Features
 
-- Drone-Based Image Collection: Drones collect high-resolution images of invasive plants in inaccessible regions.
-- Real-Time Object Detection: Utilizes YOLOv5 for fast and accurate identification of Ambrosia trifida.
-- Server-Drone Communication: A centralized system that manages the communication between detection and surveillance drones for removing IVPs.
+- **Drone-Based Image Collection:** Drones collect high-resolution images of invasive plants in inaccessible regions.
+- **Real-Time Object Detection:** Utilizes YOLOv5 for fast and accurate identification of Ambrosia trifida.
+- **Server-Drone Communication:** A centralized system that manages the communication between detection and surveillance drones for removing IVPs.
 
 ## Models
 
